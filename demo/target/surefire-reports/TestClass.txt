@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: TestClass
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 14.16 s -- in TestClass
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 13.26 s -- in TestClass
